@@ -18,9 +18,11 @@ body {
 
 header {
     text-align: center;
-    border-bottom: 2px solid #e50914;
-    margin-bottom: 30px;
-    padding-bottom: 10px;
+    background-color: white;  
+    border-bottom: 2px solid #e50914; 
+    padding: 20px 0;
+    margin-bottom: 0;
+    width: 100%;
 } 
 
 
@@ -28,7 +30,8 @@ nav {
     background: #1a1a1a;
     padding: 15px;
     border-radius: 8px;
-    margin-top: 15px;
+    margin: 15px auto 0 auto;
+    max-width: 900px;
 } 
 
 nav a {
